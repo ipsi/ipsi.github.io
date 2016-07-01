@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: WIP - Welcome
+email: nzipsi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My personal website and blog - about things that matter to me. Could be politics, programming, puppies, or other
+  things beginning wth a P.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ipsi.github.io/" # the base hostname & protocol for your site
+twitter_username: nzipsi
+github_username:  ipsi
+
+# Build settings
+markdown: kramdown
