@@ -38,5 +38,5 @@ clean_blog_social = [
     {url = "https://twitter.com/nzipsi", icon="fab fa-twitter"},
     {url = "https://mastodon.social/@ipsi", icon="fab fa-mastodon"},
     {url = "https://github.com/ipsi", icon="fab fa-github"},
-    {url = "$BASE_URL/rss.xml", icon="fas fa-rss"}
+    {url = "$BASE_URL/atom.xml", icon="fas fa-rss"}
 ]
