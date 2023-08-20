@@ -1,0 +1,3 @@
+[submodule "themes/zola-clean-blog"]
+	path = themes/zola-clean-blog
+	url = https://github.com/ipsi/zola-clean-blog.git

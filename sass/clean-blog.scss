@@ -1,0 +1,30 @@
+@import "../themes/zola-clean-blog/sass/variables.scss";
+@import "../themes/zola-clean-blog/sass/mixins.scss";
+@import "../themes/zola-clean-blog/sass/global.scss";
+@import "../themes/zola-clean-blog/sass/navbar.scss";
+@import "../themes/zola-clean-blog/sass/masthead.scss";
+@import "../themes/zola-clean-blog/sass/post.scss";
+@import "../themes/zola-clean-blog/sass/contact.scss";
+@import "../themes/zola-clean-blog/sass/footer.scss";
+@import "../themes/zola-clean-blog/sass/bootstrap-overrides.scss";
+
+pre {
+  padding: 0.5rem 1rem;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+}
+
+table tr td, table tr th {
+  vertical-align: top;
+  border-bottom: 1px solid #ebeef0;
+}
+
+table td, table th {
+  padding: 8px;
+  text-align: left;
+  line-height: 20px;
+  user-select: text;
+}
