@@ -3,6 +3,7 @@ base_url = "https://www.andrew-thorburn.com"
 default_language = "en"
 title = "The World Aflame"
 description = "The ramblings of one developer (flammable)"
+author = "Andrew"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
