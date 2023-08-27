@@ -1,6 +1,9 @@
 +++
 title = "Getting Started"
 date = 2018-06-09T20:48:00Z
+[taxonomies]
+categories = ["Technical"]
+tags = ["blog"]
 +++
 So of course, the first blog post(s) will be a description of how I got this blog set up (well, this blog + another machine with Concourse on it).
 

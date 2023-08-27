@@ -1,6 +1,9 @@
 +++
 title = "English Marginal Tax Rates"
 date = 2018-07-11T16:55:00Z
+[taxonomies]
+categories = ["Financial"]
+tags = ["uk", "tax", "finance"]
 +++
 This is a look at the English marginal tax rates, and how the default assumption that there are three (Basic, Higher, Additional) isn't at all correct, and how increasing your pension contribution doesn't cost you nearly as much as you might think.
 

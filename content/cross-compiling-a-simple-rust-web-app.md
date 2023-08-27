@@ -3,7 +3,9 @@ title = "Cross-compiling a simple Rust web app"
 slug = "cross-compiling-a-simple-rust-web-app"
 date = 2018-12-03T15:57:29.000Z
 updated = 2018-12-03T15:57:29.000Z
-#tags = "rust, technical, #Import 2022-12-14 19:23"
+[taxonomies]
+categories = ["Technical"]
+tags = ["rust"]
 +++
 As I mentioned in another post, I wrote a simple Rust app to handle the posting of a simple contact form from this blog. If you're looking for a simple set of instructions, check the [conclusion](#conclusion) - but be aware that you might need to read the rest of the post to understand *why* these things are needed.
 

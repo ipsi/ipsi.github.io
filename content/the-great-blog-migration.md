@@ -2,6 +2,9 @@
 title = "The Great Blog Migration"
 description = ""
 date = 2023-08-22T19:35:00Z
+[taxonomies]
+categories = ["Technical"]
+tags = ["blog"]
 +++
 I spent a little while this weekend moving this blog from [Ghost][ghost] to
 [Zola][zola], and therefore also moving the hosting from [Digital Ocean][do] to

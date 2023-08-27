@@ -3,7 +3,9 @@ title = "Writing a simple Rust app for handling a contact form"
 slug = "writing-a-simple-rust-app-for-handling-a-contact-form"
 date = 2018-12-03T15:56:07.000Z
 updated = 2018-12-03T15:57:54.000Z
-#tags = "rust, technical, #Import 2022-12-14 19:23"
+[taxonomies]
+categories = ["Technical"]
+tags = ["rust"]
 +++
 
 # What and Why
