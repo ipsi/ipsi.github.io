@@ -28,3 +28,30 @@ table td, table th {
   line-height: 20px;
   user-select: text;
 }
+
+.contact-me {
+  position: relative;
+
+  fieldset {
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  label, input[type=submit] {
+    display: block;
+    font-weight: bold;
+  }
+
+  input {
+    width: 25rem;
+  }
+
+  textarea {
+    width: 25rem;
+    height: 20rem;
+  }
+}
