@@ -2,7 +2,8 @@
 
 {% block header %}
 <!-- Page Header -->
-<header class="masthead" style="background-image: url('{{ get_url(path="/img/" ~ section.title ~ "-bg.jpg")}}')">
+{% set section_title = section.title | lower %}
+<header class="masthead" style="background-image: url('{{ get_url(path="/img/" ~ section_title ~ "-bg.jpg")}}')">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
